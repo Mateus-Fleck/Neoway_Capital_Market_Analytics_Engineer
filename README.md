@@ -1,6 +1,6 @@
 # Challenge Neoway Capital Market Analytics Engineer
 
-## BACKEND
+## 1 - BACKEND
 
 1.1. **EXTRACT** - Pegar os dados das ações listadas na bolsa de valores (cnpj, nome, segmento, setor) (pode usar Web Scraping, APIs ou Bibliotecas disponíveis);
 
@@ -14,7 +14,7 @@
 
 1.6. **API** - Criar um endpoint simples que retorne os dados da entidade tratada na camada Transform (Pode usar a lib FasApi do Python para criar);
 
-## FRONTEND (Streamlit ou Dash)
+## 2 - FRONTEND (Streamlit ou Dash)
 
 2.1. - Usando os dados das ações, apresentar informações gráficas (Gráfico em candlestick, pode usar a lib Plotly para isso)
 
