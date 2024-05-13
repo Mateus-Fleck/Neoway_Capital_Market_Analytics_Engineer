@@ -1,6 +1,6 @@
 import streamlit as st
 import yfinance as yf
-from datatime import data
+from datetime import data
 import pandas as pd
 import numpy as np
 from fbprophet import Prophet
