@@ -1,6 +1,5 @@
-#
+# Ignore a Maquina Virtual
 .venv/
-
 
 # Ignore arquivos relacionados às chaves de API
 .env
