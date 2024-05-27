@@ -3,7 +3,7 @@
 ## 1 - BACKEND
 
 1.1. **EXTRACT**
-- [ X ] Pegar os dados das ações listadas na bolsa de valores (cnpj, nome, segmento, setor) (pode usar Web Scraping, APIs ou Bibliotecas disponíveis);
+- [X] Pegar os dados das ações listadas na bolsa de valores (cnpj, nome, segmento, setor) (pode usar Web Scraping, APIs ou Bibliotecas disponíveis);
 
 1.2. **EXTRACT** 
 - [ ] Pegar o histórico de cotações dos últimos 6 meses;
